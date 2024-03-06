@@ -1,0 +1,9 @@
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,11 @@
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaNegocio\obj\Debug\CapaNegocio.pdb

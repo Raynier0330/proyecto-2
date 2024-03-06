@@ -1,0 +1,6 @@
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Universidad\source\repos\Programacion2\Proyecto Final - Gestión de Inventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
